@@ -1,7 +1,7 @@
-# Veritabani_Otomasyonu
-Üniversite Veritabanı Otomasyonu
-Eyl 2020 – Eki 2020
+# University Database Automation
+University Database Automation with Sqlite
+Sep 2020 – Oct 2020
 
-Python kullanarak SqLite kütüphanesi kullanarak Veritabanı Otomasyonu oluşturdum. Nesne tabanlı olarak programladığım projem, üniversite yönetiminin kullanabileceği ve yüzlerce öğrencinin bilgilerini veritabanında saklayabilen bir sistemdir. Aynı zamanda menü üzerinden Öğrenci Ekle, Bilgileri Güncelle, Öğrenci Sil, Listele ve Özel Arama gibi SQL sorguları da yapılabilmektedir.
+I have created Database Automation using SqLite library using Python. My project, which I have programmed as object-based, is a system that can be used by the university administration and can store hundreds of students' information in the database. At the same time, SQL queries such as Add Student, Update Information, Delete Student, List and Special Search can be made via the menu.
 
-![resim](https://github.com/mehmet-engineer/Veritabani_Otomasyonu/blob/main/Veri_Otomasyonu.png)
+![resim](https://github.com/mehmet-engineer/Database_Automation/blob/main/Veri_Otomasyonu.png)
